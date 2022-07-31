@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+.box{
+    border: 3px rgb(5, 68, 255) solid ;
+    padding: 20px;
+    margin-top: 150px;
+    max-width: 350px;
+    min-width: 300px;
+    font-size: x-large;
+
+}
+button{
+    color: white;
+    background-color: blue;
+    padding: 12px;
+    border: 0px solid white;
+    font-weight: bold;
+}
+button:hover{
+    background-color: white;
+    color: blue;
+}
